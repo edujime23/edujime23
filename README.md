@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! My name is EduJime23, and I'm an amateur programmer with 5 years of experience using Python, JS, HTML, and CSS. I'm passionate about coding because I love creating complex, useful, or fun things. I'm also interested in learning how to make AIs, makink low level projects with ASM, C, C++ or Rust.
+Hello! My name is EduJime23, and I'm an amateur programmer with 5 years of experience using Python, JS, HTML, and CSS. I'm passionate about coding because I love creating complex, useful, or fun things. I'm also interested in learning how to make AIs, making low level projects with ASM, C, C++ or Rust.
 
 ## Programming Experience
 
